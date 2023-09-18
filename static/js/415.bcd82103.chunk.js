@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkcottage_for_rent=self.webpackChunkcottage_for_rent||[]).push([[415],{415:function(r,t,e){e.r(t);var n=e(184);t.default=function(){return(0,n.jsx)("div",{style:{backgroundColor:"lightgray",padding:"30px"},children:(0,n.jsx)("h2",{children:"Strona domowa"})})}}}]);
-//# sourceMappingURL=415.bcd82103.chunk.js.map

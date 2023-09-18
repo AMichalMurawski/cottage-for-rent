@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdomeczki=self.webpackChunkdomeczki||[]).push([[415],{415:function(e,n,r){r.r(n);var c=r(184);n.default=function(){return(0,c.jsx)("div",{style:{backgroundColor:"lightgray",padding:"30px"},children:(0,c.jsx)("h2",{children:"Strona domowa"})})}}}]);
+//# sourceMappingURL=415.a0e2edc1.chunk.js.map

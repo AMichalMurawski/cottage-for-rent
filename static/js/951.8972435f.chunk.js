@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdomeczki=self.webpackChunkdomeczki||[]).push([[951],{951:function(e,r,c){c.r(r);var n=c(184);r.default=function(){return(0,n.jsxs)("div",{style:{backgroundColor:"lightgray",padding:"30px"},children:[(0,n.jsx)("h2",{children:"Kontakt"}),(0,n.jsx)("h3",{id:"rezerwacja",children:"Rezerwacja"})]})}}}]);
+//# sourceMappingURL=951.8972435f.chunk.js.map

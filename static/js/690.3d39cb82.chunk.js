@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkdomeczki=self.webpackChunkdomeczki||[]).push([[690],{690:function(e,c,n){n.r(c);var r=n(184);c.default=function(){return(0,r.jsx)("div",{style:{backgroundColor:"lightgray",padding:"30px"},children:(0,r.jsx)("h2",{children:"Atrakcje"})})}}}]);
+//# sourceMappingURL=690.3d39cb82.chunk.js.map
